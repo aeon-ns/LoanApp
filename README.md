@@ -5,8 +5,7 @@ A simple Node.js application for managing loans, repayments
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
 - [API Collection](#api-collection)
@@ -61,6 +60,6 @@ To start Application Server
 
 ## API Collection
 
-`
+```
 https://api.postman.com/collections/1550847-109d0796-bc9b-4ca6-adee-601ac6de1697?access_key=PMAT-01HHKY8NN56TBZ7RJRM2EYAPG3
-`
+```
